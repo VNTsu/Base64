@@ -1,0 +1,15 @@
+E:\Learn C#\Base64-Algori\Base64-Algori\bin\Debug\net6.0\Base64-Algori.exe
+E:\Learn C#\Base64-Algori\Base64-Algori\bin\Debug\net6.0\Base64-Algori.deps.json
+E:\Learn C#\Base64-Algori\Base64-Algori\bin\Debug\net6.0\Base64-Algori.runtimeconfig.json
+E:\Learn C#\Base64-Algori\Base64-Algori\bin\Debug\net6.0\Base64-Algori.dll
+E:\Learn C#\Base64-Algori\Base64-Algori\bin\Debug\net6.0\Base64-Algori.pdb
+E:\Learn C#\Base64-Algori\Base64-Algori\obj\Debug\net6.0\Base64-Algori.csproj.AssemblyReference.cache
+E:\Learn C#\Base64-Algori\Base64-Algori\obj\Debug\net6.0\Base64-Algori.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn C#\Base64-Algori\Base64-Algori\obj\Debug\net6.0\Base64-Algori.AssemblyInfoInputs.cache
+E:\Learn C#\Base64-Algori\Base64-Algori\obj\Debug\net6.0\Base64-Algori.AssemblyInfo.cs
+E:\Learn C#\Base64-Algori\Base64-Algori\obj\Debug\net6.0\Base64-Algori.csproj.CoreCompileInputs.cache
+E:\Learn C#\Base64-Algori\Base64-Algori\obj\Debug\net6.0\Base64-Algori.dll
+E:\Learn C#\Base64-Algori\Base64-Algori\obj\Debug\net6.0\refint\Base64-Algori.dll
+E:\Learn C#\Base64-Algori\Base64-Algori\obj\Debug\net6.0\Base64-Algori.pdb
+E:\Learn C#\Base64-Algori\Base64-Algori\obj\Debug\net6.0\Base64-Algori.genruntimeconfig.cache
+E:\Learn C#\Base64-Algori\Base64-Algori\obj\Debug\net6.0\ref\Base64-Algori.dll
